@@ -29,4 +29,5 @@ end
   #assign_rooms(attendees).each do |new|
   #puts new  
 #end
+puts assign_rooms(attendees)
 end
